@@ -1,2 +1,2 @@
 
-# Une simple page html
+# Une simple page
